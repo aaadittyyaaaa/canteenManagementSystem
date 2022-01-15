@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642223738 source:d:\codeblocks\canteen\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+
